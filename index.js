@@ -1,9 +1,12 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
 const port = process.env.PORT || 5000;
 
 const chefs = require("./data/chefs.json");
 const recipes = require("./data/recipes.json");
+
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("Flavor Fusion is running");
@@ -27,7 +30,7 @@ app.get("/recipes", (req, res) => {
 });
 
 // chef recipes api
-app.get("/chef-recipe/:id", (req, res) => {
+app.get("/chef-recipes/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const chefRecipes = recipes.filter(
     (recipe) => parseInt(recipe.chef_id) === id
