@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/sbfB1jZ/istockphoto-576711896-612x612.jpg",
+    "chefName": "Rafsan Haque",
+    "yearsOfExperience": 8,
+    "bio": "Fahad is a talented chef with 8 years of experience in creating flavorful and aromatic dishes. He specializes in using fresh vegetables and herbs to create healthy and nutritious meals for his clients.",
+    "numberOfRecipes": 5,
+    "likes": 1200
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://i.ibb.co/4PNxsb6/istockphoto-1305293600-612x612.jpg",
+    "chefName": "Sana Khan",
+    "yearsOfExperience": 12,
+    "bio": "Sana is a renowned chef with 12 years of experience in creating mouth-watering dishes that are both traditional and innovative. She uses unique spice blends to infuse her dishes with bold flavors and aromas.",
+    "numberOfRecipes": 8,
+    "likes": 1500
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://i.ibb.co/2hXpD2P/istockphoto-1311030976-612x612.jpg",
+    "chefName": "Sarita Singh",
+    "yearsOfExperience": 5,
+    "bio": "Zainab is a skilled chef with 5 years of experience in creating authentic and delicious Indian dishes. She has a passion for using fresh, locally-sourced ingredients and loves experimenting with new recipes.",
+    "numberOfRecipes": 7,
+    "likes": 800
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.ibb.co/LghR62Q/istockphoto-481307702-612x612.jpg",
+    "chefName": "Farhan Sheikh",
+    "yearsOfExperience": 10,
+    "bio": "Farhan is an experienced chef with 10 years of experience in creating classic Indian dishes that are beloved by his clients. He has a special talent for working with poultry and seafood to create rich and flavorful meals.",
+    "numberOfRecipes": 3,
+    "likes": 500
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://i.ibb.co/mSSqbRV/240-F-131262859-CZALT0-Oy-ZYSXD3cekth-Mm-Ju-JQXol8u-RA.jpg",
+    "chefName": "Aisha Ahmed",
+    "yearsOfExperience": 15,
+    "bio": "Aisha is a highly skilled chef with 15 years of experience in creating both traditional and modern Indian dishes. She has a particular expertise in vegetarian and vegan cuisine, using spices and herbs to create dishes that are both delicious and nutritious.",
+    "numberOfRecipes": 6,
+    "likes": 2000
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://i.ibb.co/9qFfMBX/240-F-265161867-n-UORz-Z1sfw-ADG6-Ro-Os-CPdf81-KKYQd-D3-G.jpg",
+    "chefName": "Fahad Ahmed",
+    "yearsOfExperience": 7,
+    "bio": "Raza is a talented Indian chef with 7 years of experience in creating unique and delicious dishes that reflect his passion for fusion cuisine. He is always experimenting with new ingredients and techniques to create one-of-a-kind dishes for his clients.",
+    "numberOfRecipes": 4,
+    "likes": 1000
+  }
+]
