@@ -1,0 +1,361 @@
+[
+  {
+    "id": 1,
+    "chef_id": 1,
+    "recipeName": "Butter Naan",
+    "recipeImage": "https://i.ibb.co/ncpgDJj/1-naan-canva-phpj3p-Pk-G.jpg",
+    "ingredients": [
+      "All-purpose flour",
+      "Active dry yeast",
+      "Salt",
+      "Sugar",
+      "Yogurt or milk",
+      "Water",
+      "Ghee or oil"
+    ],
+    "cookingMethod": "To make Butter Naan, first prepare the dough using all-purpose flour, yeast, salt, sugar, yogurt, and milk. Knead the dough until smooth, then let it rest for an hour. After the dough has risen, shape it into round naan and cook on a preheated tawa or griddle until browned. Brush with melted butter before serving.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "chef_id": 1,
+    "recipeName": "Paratha",
+    "recipeImage": "https://i.ibb.co/VwGM2Yt/3-paratha-canva-php-CTUMc-P.jpg",
+    "ingredients": [
+      "Whole wheat flour",
+      "Water",
+      "Salt",
+      "Oil or ghee (clarified butter)",
+      "Active dry yeast"
+    ],
+    "cookingMethod": "To make Paratha, prepare a dough using whole wheat flour, water, salt, and oil. Knead the dough well and let it rest for a few minutes. Divide the dough into small portions and roll each one out into a thin circle. Heat a tawa or griddle and cook each paratha on both sides, adding oil or ghee as needed, until golden brown. Serve hot with a side dish or chutney.",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "chef_id": 1,
+    "recipeName": "Samosas",
+    "recipeImage": "https://i.ibb.co/0ZLZDwC/5-samosas-canva-phppf0-Q4-I.jpg",
+    "ingredients": [
+      "All-purpose flour",
+      "Vegetable oil",
+      "Salt",
+      "Water",
+      "Peas",
+      "Potatoes",
+      "Onions",
+      "Spices (such as cumin, coriander, turmeric, and garam masala)"
+    ],
+    "cookingMethod": "Samosas are a popular Indian snack. To prepare samosas, a filling of spiced potatoes and peas is enclosed in a triangular-shaped pastry shell made from all-purpose flour, salt, water, and oil. The pastry is rolled into thin circles, cut in half, and then folded into a cone shape. The filling is added, and the top is sealed by brushing the edges with water and pinching them together. The samosas are then deep-fried until golden brown and crispy. They are typically served hot with chutney or tomato sauce.",
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "chef_id": 2,
+    "recipeName": "Pani Puri",
+    "recipeImage": "https://i.ibb.co/LzZsBqc/7-pani-puri-canva-phpx-M6qm-K.jpg",
+    "ingredients": [
+      "puris (hollow fried crackers)",
+      "boiled potatoes",
+      "boiled chickpeas",
+      "tamarind chutney",
+      "spicy mint and coriander water (pani)",
+      "chopped onions",
+      "chopped coriander leaves",
+      "chaat masala",
+      "sev (crunchy chickpea flour noodles)"
+    ],
+    "cookingMethod": "Pani puri is a popular street food in India. The dish consists of small, crispy puris that are filled with a mixture of mashed potatoes, chickpeas, and spices, and then topped with a spicy and tangy tamarind water. To make pani puri, you first prepare the stuffing mixture and the tamarind water, then assemble the puris with the stuffing and pour the water on top. The puris are then quickly eaten in one bite for a burst of flavor.",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "chef_id": 2,
+    "recipeName": "Kachori",
+    "recipeImage": "https://i.ibb.co/RjJB8t0/9-kachori-canva-php-UP6ps-D.jpg",
+    "ingredients": [
+      "all-purpose flour",
+      "semolina",
+      "baking powder",
+      "moong dal (yellow lentils)",
+      "oil",
+      "cumin seeds",
+      "fennel seeds",
+      "coriander seeds",
+      "red chili powder",
+      "turmeric powder",
+      "amchur (dried mango powder)",
+      "garam masala",
+      "salt",
+      "water"
+    ],
+    "cookingMethod": "Kachori is a deep-fried pastry filled with spiced moong dal or urad dal. The dough is made with flour, oil, and water, and the filling is prepared by sautéing the lentils with spices. The dough is rolled into circles, filled with the lentil mixture, and then deep-fried until golden brown. It is typically served with tamarind or mint chutney.",
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "chef_id": 2,
+    "recipeName": "Matar Kulcha",
+    "recipeImage": "https://i.ibb.co/4fK8cmY/11-matar-kulcha-canva-phpiq-Trz-B.jpg",
+    "ingredients": [
+      "dried white peas",
+      "kulcha bread",
+      "onion",
+      "tomato",
+      "green chilli",
+      "coriander leaves",
+      "spices"
+    ],
+    "cookingMethod": "Matar Kulcha is a popular Indian street food. To make it, boiled white peas are cooked with a blend of spices and served with warm, fluffy Kulcha bread. The bread is made from fermented dough and cooked in a tandoor or on a griddle until puffed and golden. The kulcha is then brushed with ghee and served hot with the spicy matar (pea) mixture on top. It is often garnished with chopped onions, cilantro, and a squeeze of lime juice.",
+    "rating": 4.0
+  },
+  {
+    "id": 7,
+    "chef_id": 3,
+    "recipeName": "Kathi Rolls",
+    "recipeImage": "https://i.ibb.co/cLVnkRL/15-kathi-rolls-canva-php-E9mepi.jpg",
+    "ingredients": [
+      "All-purpose flour",
+      "Active dry yeast",
+      "Salt",
+      "Sugar",
+      "Yogurt or milk",
+      "Water",
+      "Ghee or oil"
+    ],
+    "cookingMethod": "Kathi rolls are an Indian street food made by filling a paratha or flatbread with a filling of cooked meat, vegetables, and spices. The paratha is rolled around the filling, making a wrap that is easy to eat on the go. The filling can vary depending on preference, but popular options include chicken, lamb, and paneer. The roll is usually served with a side of mint chutney or tamarind sauce.",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "chef_id": 3,
+    "recipeName": "Pakora",
+    "recipeImage": "https://i.ibb.co/LY6L82s/17-pakora-canva-php-CKAt-C4.jpg",
+    "ingredients": [
+      "besan (gram flour)",
+      "onion",
+      "potato",
+      "spinach",
+      "green chili",
+      "ginger",
+      "garlic",
+      "coriander leaves",
+      "cumin seeds",
+      "turmeric powder",
+      "red chili powder",
+      "garam masala",
+      "baking soda",
+      "water",
+      "salt",
+      "oil (for frying)"
+    ],
+    "cookingMethod": "Pakoras are a popular Indian snack made by dipping vegetables or meat into a spiced batter and deep frying them. To make pakoras, mix gram flour, spices, and water to form a batter. Cut the vegetables or meat into small pieces and coat them with the batter. Heat oil in a pan and fry the pakoras until they are golden brown. Serve hot with chutney or sauce.",
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "chef_id": 3,
+    "recipeName": "Chicken 65",
+    "recipeImage": "https://i.ibb.co/PzVbcxb/19-chicken-65-canva-php-V0-OB8z.jpg",
+    "Ingredients": [
+      "Boneless chicken",
+      "Corn flour",
+      "All-purpose flour",
+      "Ginger-garlic paste",
+      "Curry leaves",
+      "Red chili powder",
+      "Turmeric powder",
+      "Cumin powder",
+      "Coriander powder",
+      "Salt",
+      "Egg",
+      "Lemon juice",
+      "Oil"
+    ],
+    "cookingMethod": "Chicken 65 is a spicy South Indian appetizer made by marinating bite-sized pieces of chicken in a blend of spices and then deep-frying them. The marinated chicken is coated with a batter made of cornflour and all-purpose flour before frying. Once cooked, it is typically garnished with curry leaves and served with onion slices and lemon wedges.",
+    "rating": 4.0
+  },
+  {
+    "id": 10,
+    "chef_id": 4,
+    "recipeName": "Biryani",
+    "recipeImage": "https://i.ibb.co/gmktBZb/35-biryani-canva-phpxov0-UZ.jpg",
+    "ingredients": [
+      "basmati rice",
+      "bone-in chicken or lamb",
+      "onion",
+      "yogurt",
+      "tomatoes",
+      "ginger-garlic paste",
+      "spices (such as cumin, coriander, turmeric, garam masala)",
+      "green chilies",
+      "mint leaves",
+      "cilantro leaves",
+      "lemon juice",
+      "oil",
+      "salt",
+      "water"
+    ],
+    "cookingMethod": "Biryani is a popular Indian rice dish made by cooking rice and meat or vegetables together with aromatic spices. First, marinate the meat or vegetables in yogurt and spices. Then, cook the rice separately and layer it with the meat or vegetables in a pot. Add saffron milk, fried onions, and mint leaves, and cook on low heat until the rice is fluffy and aromatic. Serve hot with raita and salad.",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "chef_id": 4,
+    "recipeName": "Tandoori Chicken",
+    "recipeImage": "https://i.ibb.co/G5nGZXd/23-tandoor-canva-php-Ri8-Nm-Q.jpg",
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "lemon juice",
+      "ginger",
+      "garlic",
+      "spices"
+    ],
+    "cookingMethod": "To make Tandoori Chicken, marinate chicken with a mixture of yogurt, spices, and lemon juice for a few hours. Then, place the chicken on skewers and bake in a preheated oven or grill in a tandoor oven until cooked through and slightly charred. Serve with lemon wedges and mint chutney.",
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "chef_id": 4,
+    "recipeName": "Fish Tikka Masala",
+    "recipeImage": "https://i.ibb.co/drkLKCX/22ish-fish-seafood-curries-coconut-milk-canva-phpse0-Ty3.jpg",
+    "ingredients": [
+      "boneless Fish",
+      "yogurt",
+      "lemon juice",
+      "ginger",
+      "garlic",
+      "garam masala",
+      "turmeric",
+      "paprika",
+      "cumin",
+      "coriander",
+      "cayenne pepper",
+      "onion",
+      "tomatoes",
+      "butter",
+      "heavy cream",
+      "salt",
+      "fresh cilantro"
+    ],
+    "cookingMethod": "Tikka Masala is a popular Indian dish made with marinated chicken cooked in a creamy tomato-based sauce with aromatic spices. To make it, marinate chicken with yogurt, spices, and lemon juice, then grill or bake until tender. In a separate pan, cook onions, garlic, ginger, and spices in oil until fragrant. Add tomatoes, cream, and cooked chicken to the pan and simmer until the sauce thickens. Garnish with cilantro and serve with rice or naan.",
+    "rating": 4.0
+  },
+  {
+    "id": 13,
+    "chef_id": 5,
+    "recipeName": "Butter Chicken",
+    "recipeImage": "https://i.ibb.co/RvPK7F9/25-butter-chicken-murgh-makhani-canva-phpcxhf-CA.jpg",
+    "ingredients": [
+      "boneless chicken",
+      "butter",
+      "cream",
+      "tomatoes",
+      "spices",
+      "garlic",
+      "ginger",
+      "onion",
+      "coriander leaves",
+      "lemon juice",
+      "kashmiri red chili powder"
+    ],
+    "cookingMethod": "Butter chicken is a classic Indian dish that involves marinating chicken in a yogurt and spice mixture, then grilling or baking it until cooked through. The chicken is then simmered in a rich tomato and butter sauce, along with cream and more spices, until the flavors meld together. It is usually served with rice or naan bread.",
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "chef_id": 5,
+    "recipeName": "Malai Kofta",
+    "recipeImage": "https://i.ibb.co/Z2HswVZ/27-malai-kofta-canva-php4-Hb-TC1.jpg",
+    "ingredients": [
+      "potatoes",
+      "paneer",
+      "cream",
+      "cashews",
+      "raisins",
+      "onions",
+      "ginger",
+      "garlic",
+      "tomatoes",
+      "spices"
+    ],
+    "cookingMethod": "Malai Kofta is a popular Indian vegetarian dish made with dumplings made of paneer, potatoes, and spices, served in a creamy tomato-based sauce. The kofta balls are first deep-fried and then simmered in the creamy tomato sauce. The sauce is made by sautéing onions, garlic, ginger, and tomatoes, and then adding cream and a variety of spices. The kofta balls are added to the sauce just before serving. Garnish with fresh coriander and serve with naan or rice.",
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "chef_id": 5,
+    "recipeName": "Rogan Josh",
+    "recipeImage": "https://i.ibb.co/fxTvHx9/29-rogan-josh-canva-php0o-Ps-U8.jpg",
+    "ingredients": [
+      "lamb",
+      "yogurt",
+      "onion",
+      "ginger",
+      "garlic",
+      "cinnamon",
+      "cardamom",
+      "cloves",
+      "cumin",
+      "coriander",
+      "chili powder",
+      "paprika",
+      "salt",
+      "oil",
+      "water"
+    ],
+    "cookingMethod": "Rogan Josh is a flavorful Kashmiri dish made with tender lamb or goat meat cooked with a blend of aromatic spices, yogurt, and tomato puree. To prepare Rogan Josh, the meat is first marinated in a spice mixture and then cooked until it becomes tender. The gravy is made by sautéing onions and ginger-garlic paste in oil, adding tomato puree, and then adding the marinated meat along with yogurt and water. The dish is simmered until the meat is cooked through and the flavors have blended together. It is usually served with steamed rice or naan bread.",
+    "rating": 4.0
+  },
+  {
+    "id": 16,
+    "chef_id": 6,
+    "recipeName": "Kulfi",
+    "recipeImage": "https://i.ibb.co/vwTwYfp/39-kulfi-canva-phpos-Oc-GE.jpg",
+    "ingredients": [
+      "milk",
+      "sugar",
+      "cardamom",
+      "pistachios",
+      "almonds",
+      "saffron"
+    ],
+    "cookingMethod": "Kulfi is a popular Indian frozen dessert that is similar to ice cream but has a denser texture and a creamier taste. To make kulfi, milk is cooked with sugar and spices until it reduces and thickens. The mixture is then poured into molds and frozen until solid. Kulfi can be flavored with various ingredients such as cardamom, saffron, rose, pistachios, or mango. It is typically served on a stick or in a bowl, garnished with nuts or fruits.",
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "chef_id": 6,
+    "recipeName": "Gulab Jamun",
+    "recipeImage": "https://i.ibb.co/hDxkHCT/41-gulab-jamun-canva-phpm-Gfh29.jpg",
+    "ingredients": [
+      "milk powder",
+      "all-purpose flour",
+      "baking powder",
+      "ghee",
+      "milk",
+      "sugar",
+      "cardamom",
+      "rose water",
+      "saffron"
+    ],
+    "cookingMethod": "Gulab Jamun is a popular Indian sweet made with milk solids (khoya), flour, and sugar syrup. To prepare it, khoya is mixed with flour and shaped into small balls, which are then deep-fried until golden brown. The fried balls are then soaked in a sugar syrup flavored with cardamom, rose water, and saffron. The syrup-soaked balls absorb the flavors and become soft, juicy, and delicious. Gulab Jamun is usually served as a dessert after a meal or during special occasions like festivals and weddings",
+    "rating": 4.2
+  },
+  {
+    "id": 18,
+    "chef_id": 6,
+    "recipeName": "Barfi",
+    "recipeImage": "https://i.ibb.co/9Y5L1gy/43-barfi-canva-php71v-YPq.jpg",
+    "ingredients": [
+      "milk powder",
+      "condensed milk",
+      "ghee",
+      "cardamom powder",
+      "chopped nuts"
+    ],
+    "cookingMethod": "Barfi is an Indian sweet made with condensed milk, sugar, and ghee. It can be flavored with cardamom, saffron, or other spices, and can also include chopped nuts such as almonds, pistachios, or cashews. The ingredients are mixed together and cooked until thickened, then poured into a greased dish and allowed to cool. Once cooled, it is cut into small squares or diamonds and served.",
+    "rating": 4.0
+  }
+]
