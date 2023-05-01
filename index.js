@@ -12,6 +12,12 @@ app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
 
+app.get("/chefs/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const singleChef = chefs.find((chef) => parseInt(chef.id) === id);
+  res.send(singleChef);
+});
+
 app.listen(port, () => {
   console.log("Flavor Fusion is running on port: ", port);
 });
