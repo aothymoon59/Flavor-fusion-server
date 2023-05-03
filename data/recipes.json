@@ -157,7 +157,7 @@
     "chef_id": 3,
     "recipeName": "Chicken 65",
     "recipeImage": "https://i.ibb.co/PzVbcxb/19-chicken-65-canva-php-V0-OB8z.jpg",
-    "Ingredients": [
+    "ingredients": [
       "Boneless chicken",
       "Corn flour",
       "All-purpose flour",
